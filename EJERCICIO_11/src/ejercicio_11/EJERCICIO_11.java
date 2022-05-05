@@ -34,32 +34,22 @@ public class EJERCICIO_11 {
             
             switch(cadena.substring(i,i + 1)){
             case "a":
-                 System.out.print(cadenaModificada.concat("@"));
-                 break;
             case "A":
                  System.out.print(cadenaModificada.concat("@"));
                  break;
             case "e":
-                 System.out.print(cadenaModificada.concat("#"));
-                 break;
             case "E":
                  System.out.print(cadenaModificada.concat("#"));
                  break;
             case "i":
-                 System.out.print(cadenaModificada.concat("$"));
-                 break;
             case "I":
                  System.out.print(cadenaModificada.concat("$"));
                  break;
             case "o":
-                 System.out.print(cadenaModificada.concat("%"));  
-                 break;
             case "O":
                  System.out.print(cadenaModificada.concat("%"));  
                  break;
             case "u":
-                 System.out.print(cadenaModificada.concat("*"));
-                 break;
             case "U":
                  System.out.print(cadenaModificada.concat("*"));
                  break;
